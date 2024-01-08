@@ -564,17 +564,17 @@ Ces fichiers markdown a été créé pour la réalisation du projet *Boîtes à 
 
 Nous sommes trois étudiantes en première année de Master TAL à l'Inalco.
 
-<img src="./images/laura.jpg" width=100px> &nbsp; &nbsp; **Laura Darenne**
+<img src="./image/laura.jpg" width=100px> &nbsp; &nbsp; **Laura Darenne**
 > Bonjour ! Je suis Laura, diplômée en licence LLCER chinois à l'Inalco et maintenant en master TAL toujours à l'Inalco. Ce deuxième projet n'a pas toujours été facile mais ça a été un plaisir de travailler en équipe avec Camille et Shami. Le courant est si bien passé ! J'espère que vous avez apprécié cette présentation markdown. C'est un peu mon petit bébé, et ma partie préférée chaque semestre ...
 
 <br>
 
-<img src="./images/camille.jpg" width=100px> &nbsp; &nbsp; **Camille Clavier**
+<img src="./image/camille.jpg" width=100px> &nbsp; &nbsp; **Camille Clavier**
 > Bonjour ! Fraîchement diplômée d'une licence de civilisation coréenne avec comme spécialité littérature, art et traduction, j'ai trouvé ce projet assez intéressant car on y travaille plus l'aspect linguistique ! 
 J'ai trouvé que travaillé sur différents formats et nous laissé le choix était aussi bien une difficulté, qu'une opportunité de pouvoir s'exercer donc il y a eu des hauts et des bas mais on s'en sort toujours haha ! 
 
 <br>
 
-<img src="./images/shami.jpg" width=100px> &nbsp; &nbsp; **Shami Thirion Sen**
+<img src="./image/shami.jpg" width=100px> &nbsp; &nbsp; **Shami Thirion Sen**
 > Hola! Après un parcours académique et professionnel linguistique, l'envie de renouer avec la logique est l'informatique m'a amenée à rejoindre le Master en TAL. Ce deuxième projet de l'année, premier avec l'équipe (charmant :) actuel, je découvre les différents aspects du TAL, à travers des fonctionalités Python pour la lecture, l'analyse et la présentations des données. 
 Projet très enrichissant (et nécessaire) pour apprendre le travail en équipe. 
