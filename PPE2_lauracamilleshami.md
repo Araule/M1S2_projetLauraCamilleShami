@@ -343,7 +343,7 @@ Nous avons toutes fait tourner le script `extract_corpus.py` avec l'analyseur `s
 ### Thème n°1 : La présidentielle 
     ./lda_visu/01_04_politique.html
 
-#### fichier d'entrée : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-01-01_2022-04-28.xml "vers le sous corpus du thème 1")
+#### fichier d'entrée : [lien](https://raw.githubusercontent.com/Araule/M1S2_projetLauraCamilleShami/page/fichiers_bruts/2022-01-01_2022-04-28.xml)
 
 #### choix des dates : 01-01-2022 au 28-04-2022
 Cette analyse porte sur la campagne présidentielle du début de l'année 2022, qui signifie la fin des vacances du réveillon et la reprise des hostilités jusqu'au 28 avril, le lendemain de la décision du Conseil constitutionnel validant les résultats de l’élection et proclamation officielle du nouveau président de la République.
@@ -383,7 +383,7 @@ Enfin, on retrouve les sujets 1 et 3, très similaires, où on retrouve toujours
     ./lda_visu/01_02_europe.html
     ./lda_visu/02_03_europe.html
 
-#### fichier d'entrée : [lien pour la première partie](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-01-24_2022-02-23.xml "vers la première partie sous corpus du thème 2"),  [lien pour la deuxième partie](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-02-24_2022-03-23.xml "vers la deuxième partie du sous corpus du thème 2")
+#### fichier d'entrée : [lien pour la première partie](https://raw.githubusercontent.com/Araule/M1S2_projetLauraCamilleShami/page/fichiers_bruts/2022-01-24_2022-02-23.xml),  [lien pour la deuxième partie](https://raw.githubusercontent.com/Araule/M1S2_projetLauraCamilleShami/page/fichiers_bruts/2022-02-24_2022-03-23.xml)
 
 #### choix des dates : 24-01-2022 au 23-02-2022 / 24-02-2022 au 23-03-2022
 Le Monde est, comme l'indique son nom, un journal qui parle beaucoup de sujets internationals et la question s'est posé de savoir si l'invasion de l'Ukraine par la Russie le 24 février 2022 a eu un impact sur la diversité des sujets dans le journal. Tous les articles sortis un mois avant l'évasion et un mois après ont été analysé.
@@ -423,7 +423,7 @@ Le sujet 8 est assez marginalisé par rapport aux autres sujets. On retrouve tou
 
     ./lda_visu/05_07_ete.html
 
-#### fichier d'entrée : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-05-01_2022-07-31.pickle)
+#### fichier d'entrée : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/fichiers_bruts/2022-05-01_2022-07-31.pickle)
 
 
 #### choix des dates : 01-05-2022 au 31-07-2022
@@ -459,7 +459,7 @@ Même si les topics du milieu font allusion à « procureur », « donald  », �
 
     ./lda_visu/07_08_international.html
 
-#### fichier d'entrée : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-07-01_2022-08-31.pickle)
+#### fichier d'entrée : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/fichiers_bruts/2022-07-01_2022-08-31.pickle)
 
 
 #### choix des dates : 01-07-2022 au 31-08-2022
@@ -492,7 +492,7 @@ Le topic 3 dépicte plus précisément la période, avec la présence des termes
 
     ./lda_visu/09_10_societe.html
 
-#### fichier d'entrée : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-09-01_2022-10-30.json "vers le sous corpus du thème 5")
+#### fichier d'entrée : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/fichiers_bruts/2022-09-01_2022-10-30.json)
 
 #### choix des dates : 01-09-2022 au 30-10-2022
 Cette analyse porte sur la période commençant le 01-09-2022 et se terminant le 30-10-2022. Nous avons trouvé cette période intéressante, car il s'agit de la période de la rentrée et elle entraîne souvent des changements.
@@ -528,7 +528,7 @@ Le mot "femme" qui est apparaissant à la cinquième position dans le top des tr
 
     ./lda_visu/10_12_sport.html
 
-#### fichier d'entrée : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/page/visu/fichiers_bruts/2022-10-01_2022-12-30.json "vers le sous corpus du thème 6")
+#### fichier d'entrée : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/fichiers_bruts/2022-10-01_2022-12-30.json)
 
 #### choix des dates : 01-10-2022 au 30-12-2022
 La seconde analyse commence à partir du 01-10-2022 et se termine le 30-12-2022. Nous nous sommes intéressées à cette période, car il y a eu le mondial de foot qui s'y est déroulé. 
