@@ -68,7 +68,7 @@ flowchart LR
 ### B. explication des scripts et des arguments à donner à chacun
 
 
-#### 1. extract_corpus.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/extract_corpus.py "vers le script extract_corpus.py") 
+#### 1. extract_corpus.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/extract_corpus.py "vers le script extract_corpus.py") 
 
 ##### les arguments
 
@@ -92,7 +92,7 @@ flowchart LR
 
 ---
 
-#### 2. get_corpus.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_corpus.py "vers le script get_corpus.py")
+#### 2. get_corpus.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_corpus.py "vers le script get_corpus.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `get_Corpus(fichiers:Path, nom_analyse: str, categories: Optional[List[str]]=None, begin: Optional[str]=None, end: Optional[str]=None)` : renvoie une instance de la classe `Corpus`
@@ -120,7 +120,7 @@ flowchart LR
 
 ---
 
-#### 3. get_articles.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_articles.py "vers le script get_articles.py")
+#### 3. get_articles.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_articles.py "vers le script get_articles.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `to_article(path, nom_analyse, nom_categorie, date)` : renvoie une instance de la classe `Article`
@@ -146,7 +146,7 @@ flowchart LR
 
 ---
 
-#### 4. get_analyse.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_analyse.py "vers le script get_analyse.py")
+#### 4. get_analyse.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_analyse.py "vers le script get_analyse.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `get_stanza(description)` : renvoie une liste d'instances de la classe `Token` analysées avec stanza
@@ -169,7 +169,7 @@ flowchart LR
 
 ---
 
-#### 5. get_xml.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_xml.py "vers le script get_xml.py")
+#### 5. get_xml.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_xml.py "vers le script get_xml.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `to_xml(corpus)` : renvoie un document structuré xml
@@ -180,7 +180,7 @@ flowchart LR
 
 ---
 
-#### 6. get_json.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_json.py "vers le script get_json.py")
+#### 6. get_json.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_json.py "vers le script get_json.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `to_json(corpus)` : renvoie un document structuré json
@@ -191,7 +191,7 @@ flowchart LR
 
 ---
 
-#### 7. get_pickle.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/get_pickle.py "vers le script get_pickle.py")
+#### 7. get_pickle.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/get_pickle.py "vers le script get_pickle.py")
 
 ##### les fonctions qui sont appelées par un autre script
 - `to_pickle(corpus)` : renvoie un document structuré pickle
@@ -202,7 +202,7 @@ flowchart LR
 
 ---
 
-#### 8. datastructures.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/datastructures.py "vers le script datastructures.py")
+#### 8. datastructures.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/datastructures.py "vers le script datastructures.py")
 
 ##### les classes
 - classe `Corpus`
@@ -214,7 +214,7 @@ flowchart LR
 
 ---
 
-#### 9. run_lda.py : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/run_lda.py "vers le script run_lda.py")
+#### 9. run_lda.py : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/run_lda.py "vers le script run_lda.py")
 
 ##### les arguments
 
@@ -300,7 +300,7 @@ flowchart LR
 
 ---
 
-#### 10. execute_scripts.sh : [lien](https://gitlab.com/projetencadre2/PPE2-lauracamilleshami/-/blob/main/scripts/execute_scripts.sh "vers le script execute_scripts.py")
+#### 10. execute_scripts.sh : [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/main/scripts/execute_scripts.sh "vers le script execute_scripts.py")
 
 ##### le fonctionnement général
 
