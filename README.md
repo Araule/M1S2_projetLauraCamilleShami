@@ -9,3 +9,7 @@ Ceci est le dépôt de notre projet encadré du deuxième semestre du master TAL
 
 ## Fichier markdown
 - [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/PPE2_lauracamilleshami.md "vers fichier markdown")
+
+<br>
+
+*projet initialement fait sur gitlab*
