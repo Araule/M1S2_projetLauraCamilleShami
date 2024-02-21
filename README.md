@@ -5,7 +5,7 @@ Ceci est le dépôt de notre projet encadré du deuxième semestre du master TAL
 ## Groupe
 - Laura Darenne, Inalco
 - Camille Clavier, Inalco
-- Shami Thirion Sen, Inalco
+- Shami Thirion Sen, Inalco 
 
 ## Fichier markdown
 - [lien](https://github.com/Araule/M1S2_projetLauraCamilleShami/blob/page/PPE2_lauracamilleshami.md "vers fichier markdown")
